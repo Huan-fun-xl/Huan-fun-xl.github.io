@@ -178,6 +178,10 @@ template {
 [hidden] {
   display: none
 }
+
+#toggle-sidebar {
+  bottom: 80px
+}
 .limit-one-line,
 .flink#article-container .flink-list > .flink-list-item a .flink-item-name,
 .flink#article-container .flink-list > .flink-list-item a .flink-item-desc,
